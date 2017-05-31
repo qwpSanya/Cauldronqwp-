@@ -1,4 +1,4 @@
-# Cauldronqwp-
+# Alchemy on JS 
 Instructions:
 <ul>
   <li>Download lab08_cauldron.rar;</li>
